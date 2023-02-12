@@ -2,5 +2,5 @@
 - 👀 I Do React Vue JS and Laravel
 - 🌱 I’m currently learning Nuxt & Next JS
 - 💞️ I’m looking to improve my skills and get more expeience
-- 📫 <a href="https://twitter.com/yusfworks">Twitter => @yusfworks</a>
+- 📫 <a href="https://twitter.com/yoel3imari">Twitter => @yoel3imari</a>
 

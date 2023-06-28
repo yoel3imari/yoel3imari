@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yoel3imari from Morocco. I make websites
-- 👀 I Do React Vue JS and Laravel
-- 🌱 I’m currently learning Nuxt & Next JS
-- 💞️ I’m looking to improve my skills and get more expeience
-- 📫 <a href="https://twitter.com/yoel3imari">Twitter => @yoel3imari</a>
+- 👀 I Do React, Vue JS and Laravel
+- 🌱 currently learning Nuxt & Next JS
+- 💞️ looking to improve my skills and get more expeience
 

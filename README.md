@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Youssef</h1>
 <h3 align="center">A First year Master Student in Data Science</h3>
 
-- 🌱 I’m currently following my studies at Ibn Zohr University, Morocco - 👨‍💻 All of my projects are
-available at
+- 🌱 I’m currently following my studies at Ibn Zohr University, Morocco - 👨‍💻 All
+of my projects are available at
 [https://github.com/yoel3imari?tab=repositories](https://github.com/yoel3imari?tab=repositories)
 - 📫 How to reach me **youssef.elaimari@gmail.com**
 
@@ -381,6 +381,13 @@ available at
   </a>
 </p>
 
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=yoel3imari&label=Profile%20views&color=0e75b6&style=flat"
+    alt="yoel3imari"
+  />
+</p>
+
 <p>
   <img
     align="left"
@@ -403,19 +410,4 @@ available at
     src="https://github-readme-streak-stats.herokuapp.com/?user=yoel3imari&"
     alt="yoel3imari"
   />
-</p>
-
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=yoel3imari&label=Profile%20views&color=0e75b6&style=flat"
-    alt="yoel3imari"
-  />
-</p>
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=yoel3imari"
-      alt="yoel3imari"
-  /></a>
 </p>

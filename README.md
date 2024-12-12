@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Youssef</h1>
 <h3 align="center">A First year Master Student in Data Science</h3>
 
-- 🌱 I’m currently following my studies at Ibn Zohr University, Morocco - 👨‍💻 All
-of my projects are available at
-[https://github.com/yoel3imari?tab=repositories](https://github.com/yoel3imari?tab=repositories)
+- 🌱 I’m currently following my studies at Ibn Zohr University, Morocco
+- 👨‍💻 All of my projects are available at [https://github.com/yoel3imari?tab=repositories]
 - 📫 How to reach me **youssef.elaimari@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

@@ -9,9 +9,9 @@
 I’m a Master’s student at Ibn Zohr University specializing in **Data Analytics and Artificial Intelligence**. I have hands-on experience building full-stack web and mobile apps, implementing machine learning models, and solving real-world problems with scalable systems.
 
 My academic and project experience reflects a passion for:
-- 🔬 **Computer Vision & Image Processing**
-- 🧠 **Machine Learning & Deep Learning**
 - 🌐 **Modern Web and Mobile Development**
+- 🧠 **Machine Learning & Deep Learning**
+- 🔬 **Computer Vision & Image Processing**
 
 ---
 
@@ -21,7 +21,7 @@ My academic and project experience reflects a passion for:
 **AI/ML:** Scikit-Learn, TensorFlow, OpenCV, Keras, CNN, LSTM  
 **Web & Mobile:** Vue 3, Nuxt, React Native, Laravel, Next.js, Spring Boot  
 **Databases:** MySQL, Oracle, PostgreSQL, SQLite, MongoDB, Firebase  
-**Tools & DevOps:** Git, Docker, Kubernetes
+**Tools & DevOps:** Git, Docker, Kubernetes, Github Actions
 
 ---
 
